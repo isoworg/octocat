@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is usually used to do part of the cloning process, whereby a remote repo is associated with a local repo, so that they can push and pull to each other.
