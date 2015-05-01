@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone initialises a local repository (in its own new directory) and pulls the specified repo from github into that local repo.

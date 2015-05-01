@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a copy of the 'state' of what you're branching off, in order to be able to change it without affecting the original. In this way, multiple changes can be made simultaneously, lots of mistakes can be made, and the original is never affected. This is the core function of any versioning system.
